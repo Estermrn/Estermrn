@@ -3,6 +3,8 @@
 - Atualmente estou cursando Sistemas da Informação
 - Desenvolvendo habilidades em JAVA
 
+<img position="top" align="right" width="150" height="150" alt="octocat-1759263196101" src="https://github.com/user-attachments/assets/66518fc3-c8df-477b-81aa-1c3f3558d203" />
+
 <div>
            <a href="https://github.com/Estermrn/github-readme-stats">
              <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=Estermrn&hide=issues&show_icons=true&theme=synthwave" />
