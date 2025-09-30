@@ -1,9 +1,7 @@
-## Oi! Me chamo Ester 
+## Oi! Me chamo Ester
 
 - Atualmente estou cursando Sistemas da Informação
 - Desenvolvendo habilidades em JAVA
-
-<img position="top" align="right" width="120" height="120" alt="octocat-1759263196101" src="https://github.com/user-attachments/assets/66518fc3-c8df-477b-81aa-1c3f3558d203" />
 
 <div>
            <a href="https://github.com/Estermrn/github-readme-stats">
