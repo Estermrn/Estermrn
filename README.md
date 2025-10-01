@@ -5,10 +5,10 @@
 
 <div>
            <a href="https://github.com/Estermrn/github-readme-stats">
-             <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=Estermrn&hide=issues&show_icons=true&theme=synthwave" />
+             <img height=135em align="center" src="https://github-readme-stats.vercel.app/api?username=Estermrn&hide=issues&show_icons=true&theme=synthwave" />
            </a>
            <a href="https://github.com/Estermrn/convoychat">
-             <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estermrn&layout=compact&theme=synthwave&langs_count=8&card_width=320" />
+             <img height=135em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estermrn&layout=compact&theme=synthwave&langs_count=8&card_width=320" />
            </a>
 </div> 
 
