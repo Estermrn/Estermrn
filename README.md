@@ -16,7 +16,7 @@
            <img align="center" alt="Ester-Java" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 
-##
+---
 
 <div>
            <a href="https://www.linkedin.com/in/estermariani" target="_blank">
