@@ -1,7 +1,7 @@
 ## 🌸 Oi! Me chamo Ester
 
 - Atualmente estou cursando Sistemas da Informação
-- Desenvolvendo habilidades em JAVA
+- Desenvolvendo habilidades em Python
 
 <div>
            <a href="https://github.com/Estermrn/github-readme-stats">
